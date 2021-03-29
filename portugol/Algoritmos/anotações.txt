@@ -1,0 +1,18 @@
+Na prática, as sequências lógicas trazem:
+
+As instruções que devem ser feitas (o quê).
+A ordem em que as instruções devem ser realizadas (quando).
+
+
+As instruções são regras criadas para serem realizadas em situações específicas. Por exemplo, quando compramos aparelhos eletrônicos, recebemos manuais de instrução. Esses manuais descrevem o que deve ser feito para que os aparelhos funcionem corretamente.
+
+Como você já pôde perceber, o computador é uma máquina que realiza, exclusivamente, o que ela for programada para fazer.
+
+Dessa forma, um programa nada mais é do que uma sequência lógica de instruções organizadas para manipular informações inseridas pelos usuários. Tudo isso é feito para atingir determinado fim.
+
+Importância do Aprendizado de Lógica de Programação
+O objetivo principal deste conteúdo é propiciar a você o aprendizado a respeito do que é e de como se pode raciocinar de forma lógica.
+
+Para isso, serão criadas situações que lhe possibilitarão desenvolver a capacidade de criar sequências lógicas de instruções capazes de resolver problemas e atingir objetivos práticos.
+
+Além de aprender a melhorar seu raciocínio lógico, você aprenderá também a registrar suas sequências lógicas de uma forma padronizada, que permita a outras pessoas entenderem suas propostas de resolução de problemas. Dessa forma, você aprenderá a pensar de forma estruturada e a registrar/documentar suas ideias.
