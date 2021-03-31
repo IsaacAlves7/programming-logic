@@ -11,3 +11,6 @@ https://portugol-webstudio.cubos.io/ide
 
 # Kind of Programming Paradigms
 ![EN-programmierparadigmen](https://user-images.githubusercontent.com/61624336/113014519-0957e380-9153-11eb-97ea-a2e47dcfe8ff.jpg)
+
+# Declarative x Imperative Programming
+![1_Auy48pC39ps3AXEk-9WseA](https://user-images.githubusercontent.com/61624336/113073244-2adebc80-919f-11eb-9260-bb420027b43c.png)
