@@ -8,7 +8,7 @@ https://portugol-webstudio.cubos.io/ide
 - **Methods** = verbs, actions (functions and tasks) and instruction sets;
 - **Args (Arguments or parameter)** = 
 - **Classes** = feature and action sets with or without their arguments;
-- **Objects** = 
+- **Objects** = everything, all or everybody.
 
 ## ⚽ OOP Pillars 🏛️
 ![four-pillars](https://user-images.githubusercontent.com/61624336/112904629-98b3b700-90bf-11eb-99d4-5792544ed9d5.jpg)
