@@ -4,6 +4,10 @@ https://portugol-webstudio.cubos.io/ide
 
 # ⚽ OOP Paradigm 🔢
 
+OOP Paradigm is the real world simulation with concepts basead in objects.
+
+### ⚽ Concepts of OOP ⚽
+
 - **Attributes** = features, models and adjectives;
 - **Methods** = verbs, actions (functions and tasks) and instruction sets;
 - **Args (Arguments or parameter)** = 
