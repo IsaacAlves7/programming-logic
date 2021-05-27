@@ -4,9 +4,9 @@ https://portugol-webstudio.cubos.io/ide
 
 # ⚽ OOP Paradigm 🔢
 
-- **Attributes** = features, models, adjectives
-- **Methods** = verbs, actions, 
-- **Args (Arguments)**
+- **Attributes** = features, models and adjectives;
+- **Methods** = verbs, actions (functions and tasks) and instruction sets;
+- **Args (Arguments or parameter)** = 
 - **Classes** = 
 - **Objects** = 
 
