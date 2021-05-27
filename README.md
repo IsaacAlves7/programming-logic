@@ -7,7 +7,7 @@ https://portugol-webstudio.cubos.io/ide
 - **Attributes** = features, models and adjectives;
 - **Methods** = verbs, actions (functions and tasks) and instruction sets;
 - **Args (Arguments or parameter)** = 
-- **Classes** = 
+- **Classes** = feature and action sets with or without their arguments;
 - **Objects** = 
 
 ## ⚽ OOP Pillars 🏛️
